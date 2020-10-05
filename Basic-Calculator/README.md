@@ -10,3 +10,5 @@ Basic Functionalities include:
 4. Multiplication
 5. Square Root
 6. Exponentials
+
+<img src="Sample.jpg">
