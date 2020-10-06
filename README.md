@@ -7,6 +7,11 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+There are 2 ways you can **contribute** in this repo:
+1. Solve the issues created 
+2. Create your own issues and contribute
+
+
 
 Please refer to the project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
 
