@@ -67,6 +67,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "q-viper",
+      "name": "Viper",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35986908?v=4",
+      "profile": "http://q-viper.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
