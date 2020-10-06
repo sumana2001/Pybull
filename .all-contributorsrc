@@ -1,0 +1,150 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Shrey2002",
+      "name": "Shrey2002",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/72299720?v=4",
+      "profile": "https://github.com/Shrey2002",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DevanshMehra",
+      "name": "Devansh Mehra",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9302877?v=4",
+      "profile": "https://github.com/DevanshMehra",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Shanky1199",
+      "name": "Shashank",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/36107693?v=4",
+      "profile": "https://github.com/Shanky1199",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "manisacharya",
+      "name": "Manish Acharya",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22543019?v=4",
+      "profile": "https://github.com/manisacharya",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "prashant-241",
+      "name": "Prashant",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/68244398?v=4",
+      "profile": "https://github.com/prashant-241",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Aryan-dev007",
+      "name": "Aryan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/61882780?v=4",
+      "profile": "http://aryan-dev007.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sudesh1611",
+      "name": "Sudesh Kumar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10352292?v=4",
+      "profile": "https://www.sudeshkumar.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "q-viper",
+      "name": "Viper",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35986908?v=4",
+      "profile": "http://q-viper.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Shreesh-T",
+      "name": "Shreesh Tripathi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/53295401?v=4",
+      "profile": "https://github.com/Shreesh-T",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Aathira123",
+      "name": "Aathira Satheesh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29476279?v=4",
+      "profile": "https://github.com/Aathira123",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dulangaheshan",
+      "name": "Dulanga Heshan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33221629?v=4",
+      "profile": "https://github.com/dulangaheshan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MayankDev-11",
+      "name": "Mayank Rathi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/72435687?v=4",
+      "profile": "https://github.com/MayankDev-11",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "gaurangisinha",
+      "name": "Gaurangi Sinha",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/56791126?v=4",
+      "profile": "https://github.com/gaurangisinha",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "svimanet",
+      "name": "Eirik",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10476796?v=4",
+      "profile": "https://github.com/svimanet",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tanmoy27112000",
+      "name": "Tanmoy karmakar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22212661?v=4",
+      "profile": "https://github.com/tanmoy27112000",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "python",
+  "projectOwner": "sumana2001",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

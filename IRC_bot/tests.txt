@@ -1,0 +1,23 @@
+!asdf
+!urban test
+!urban
+!wiki test
+!wiki
+!roll 1d20
+!roll 5d50
+!roll
+!flip
+!joke
+!chuck
+!quote
+!horoscope libra
+!horoscope
+!cat
+!dog
+!jesus
+!catfact
+!draw
+!help
+!covidglobal
+!covidcountry India
+!sentiment this sentence is nice
