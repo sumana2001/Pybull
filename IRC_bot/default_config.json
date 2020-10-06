@@ -1,0 +1,9 @@
+{
+    "nick": "Bobot",
+    "hostname": "Bobot",
+    "name": "Bob The Bot",
+    "server": "chat.freenode.net",
+    "port": 6697,
+    "channel": "##bobot",
+    "password": false
+  }
