@@ -6,4 +6,6 @@
 https://sites.google.com/a/chromium.org/chromedriver/downloads and place it in systems path.
 Path can be set by export PATH="$PATH:/path/to/chromedriver"
 </ol>
+<hr>
+
 
