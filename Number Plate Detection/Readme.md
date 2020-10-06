@@ -6,6 +6,8 @@ Note: All images used are used from web.
     * Make sure tesseract is recognized as environment variable.
     * [Read official docs](https://github.com/tesseract-ocr/tesseract).
 
+## Demo
+![demo_img](assets/tsrt.png)
 ## Workflow
 * Read Image
 * Convert to Grayscale.
