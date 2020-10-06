@@ -1,6 +1,6 @@
 # Python
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h4>We aim to make the repo the one stop solution for python beginner with all basic code snipet involved</h4>
 <img src="python.jpg">
@@ -40,6 +40,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Shrey2002"><img src="https://avatars2.githubusercontent.com/u/72299720?v=4" width="100px;" alt=""/><br /><sub><b>Shrey2002</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=Shrey2002" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DevanshMehra"><img src="https://avatars3.githubusercontent.com/u/9302877?v=4" width="100px;" alt=""/><br /><sub><b>Devansh Mehra</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=DevanshMehra" title="Code">💻</a></td>
   </tr>
 </table>
 
