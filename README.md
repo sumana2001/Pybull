@@ -51,10 +51,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+## Admins💖
 <table>
   <tr>
     <td align="center"><a href="http://aliferous.xyz/"><img src="https://avatars1.githubusercontent.com/u/63084088?s=400&u=bafdb12ae1a5a624a7a37334efab80a8292cca8e&v=4" width="100px;" alt=""/><br /><sub><b>Sumana Basu</b></sub></a><br /><a href="https://github.com/Webwiznitr/MilkERP/commits?author=sumana2001" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://aliferous.xyz/"><img src="https://avatars2.githubusercontent.com/u/67703407?v=4" width="100px;" alt=""/><br /><sub><b>Aniket Pal</b></sub></a><br /><a href="https://github.com/Webwiznitr/MilkERP/commits?author=Aniket762" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://aliferous.xyz/"><img src="https://avatars2.githubusercontent.com/u/67703407?v=4" width="100px;" alt=""/><br /><sub><b>Aniket Pal</b></sub></a><br /><a href="https://github.com/Webwiznitr/MilkERP/commits?author=Aniket762" title="Code">💻</a></td>
   </tr>
 </table>
 
