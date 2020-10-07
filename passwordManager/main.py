@@ -1,8 +1,8 @@
 import os.path
-# Python program to generate random 
-# password using Tkinter module 
-import random 
-import pyperclip 
+
+# Python program to generate random passwords using Tkinter module 
+import secrets # secrets module is the better built-in module to be used for pseudo-random generation in cryptography and security applications
+import string # This is a built-in module which comes useful predefined strings and string methods
 from tkinter import *
 from tkinter.ttk import *
 
@@ -13,43 +13,43 @@ def low():
 	# Get the length of passowrd 
 	length = var1.get() 
 
-	lower = "abcdefghijklmnopqrstuvwxyz"
-	upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
-	digits = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 !@#$%^&*()"
+	lower = string.ascii_lowercase
+	upper = string.ascii_uppercase
+	digits = upper+lower+string.digits+" !@#$%^&*()" # Additionally one can use string.punctuation for even more symbols
 	password = "" 
+
+	def sample(password, population, length): # A function that works like random.sample but using secrets module
+		for _ in range(length):
+			password += secrets.choice(population)
+		return password
 
 	# if strength selected is low 
 	if var.get() == 1: 
-		for i in range(0, length): 
-			password = password + random.choice(lower) 
-		return password 
+		return sample(password, lower, length)
 
 	# if strength selected is medium 
 	elif var.get() == 0: 
-		for i in range(0, length): 
-			password = password + random.choice(upper) 
-		return password 
-
+		return sample(password, upper, length)
+	
 	# if strength selected is strong 
 	elif var.get() == 3: 
-		for i in range(0, length): 
-			password = password + random.choice(digits) 
-		return password 
-	else: 
-		print("Please choose an option") 
+		return sample(password, digits, length)
+	else:
+		pass
 
 
 # Function for generation of password 
 def generate(): 
-	password1 = low() 
+	password1 = low()
 	entry.insert(10, password1) 
 
 
 # Function for copying password to clipboard 
 def copy1(): 
 	random_password = entry.get() 
-	pyperclip.copy(random_password) 
-
+	root.clipboard_clear()
+	root.clipboard_append(random_password)
+	root.update()
 
 
 def checkExistence():
@@ -58,6 +58,7 @@ def checkExistence():
     else:
         file = open("info.txt", 'w')
         file.close()
+
 
 def appendNew():
 	file = open("info.txt", 'a')
@@ -84,6 +85,7 @@ def readPasswords():
     file.close()
     print(content)
 
+
 # Main Function 
 checkExistence()
 # create GUI window 
@@ -91,11 +93,8 @@ root = Tk()
 var = IntVar() 
 var1 = IntVar() 
 
-
-
 # Title of your GUI window 
 root.title("Python Password Manager") 
-
 
 # create label for length of password 
 c_label = Label(root, text="Length") 
@@ -128,14 +127,12 @@ combo.current(0)
 combo.bind('<<ComboboxSelected>>') 
 combo.grid(column=1, row=1) 
 
-
 # create label and entry to show 
 # password generated 
 userName = Label(root, text="Enter username here") 
 userName.grid(row=2) 
 entry1 = Entry(root) 
 entry1.grid(row=2, column=1) 
-
 
 # create label and entry to show 
 # password generated 
@@ -148,7 +145,6 @@ Random_password = Label(root, text="Generated password")
 Random_password.grid(row=4) 
 entry = Entry(root) 
 entry.grid(row=4, column=1) 
-
 
 save_button = Button(root, text="Save", command=appendNew) 
 save_button.grid(row=2, column=2) 
