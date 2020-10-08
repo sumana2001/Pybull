@@ -53,8 +53,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/dulangaheshan"><img src="https://avatars0.githubusercontent.com/u/33221629?v=4" width="100px;" alt=""/><br /><sub><b>Dulanga Heshan</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=dulangaheshan" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/MayankDev-11"><img src="https://avatars2.githubusercontent.com/u/72435687?v=4" width="100px;" alt=""/><br /><sub><b>Mayank Rathi</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=MayankDev-11" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/gaurangisinha"><img src="https://avatars0.githubusercontent.com/u/56791126?v=4" width="100px;" alt=""/><br /><sub><b>Gaurangi Sinha</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=gaurangisinha" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/svimanet"><img src="https://avatars1.githubusercontent.com/u/10476796?v=4" width="100px;" alt=""/><br /><sub><b>Eirik</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=svimanet" title="Code">💻</a></td>
-    
+    <td align="center"><a href="https://github.com/svimanet"><img src="https://avatars1.githubusercontent.com/u/10476796?v=4" width="100px;" alt=""/><br /><sub><b>Eirik</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=svimanet" title="Code">💻</a></td>  
+  </tr>
+ 
+  <tr>
+    <td align="center"><a href="http://aliferous.xyz"><img src="https://avatars2.githubusercontent.com/u/67703407?v=4" width="100px;" alt=""/><br /><sub><b>Aniket</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=Aniket762" title="Code">💻</a></td>
+ 
   </tr>
 
 </table>
