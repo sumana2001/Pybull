@@ -56,10 +56,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/svimanet"><img src="https://avatars1.githubusercontent.com/u/10476796?v=4" width="100px;" alt=""/><br /><sub><b>Eirik</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=svimanet" title="Code">💻</a></td>  
   </tr>
  
-  <tr>
-    <td align="center"><a href="http://aliferous.xyz"><img src="https://avatars2.githubusercontent.com/u/67703407?v=4" width="100px;" alt=""/><br /><sub><b>Aniket</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=Aniket762" title="Code">💻</a></td>
  
-  </tr>
 
 </table>
 
