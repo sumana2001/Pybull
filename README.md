@@ -1,6 +1,6 @@
 # Python
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h4>We aim to make the repo the one stop solution for python beginner with all basic code snipet involved</h4>
 <img src="python.jpg">
@@ -58,6 +58,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/tanmoy27112000"><img src="https://avatars2.githubusercontent.com/u/22212661?v=4" width="100px;" alt=""/><br /><sub><b>Tanmoy karmakar</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=tanmoy27112000" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/vaderjunior"><img src="https://avatars1.githubusercontent.com/u/42500784?v=4" width="100px;" alt=""/><br /><sub><b>Ajay Thoomkuzhy Jose</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=vaderjunior" title="Code">💻</a></td>
+    <td align="center"><a href="https://adityamangal0202.wixsite.com/mysite-1"><img src="https://avatars0.githubusercontent.com/u/68494604?v=4" width="100px;" alt=""/><br /><sub><b>Aditya Mangal</b></sub></a><br /><a href="https://github.com/sumana2001/python/commits?author=adityamangal1" title="Code">💻</a></td>
   </tr>
 </table>
 
