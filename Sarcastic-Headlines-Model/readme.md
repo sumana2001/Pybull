@@ -8,3 +8,5 @@ Dataset: https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detect
 - Preprocessing Techniques: tokenization, lemmatization, stemming, pos-tagging, count and tf-idf vectorizers
 
 #### Current accuracy: 79.43%
+
+Visualizations will be added soon.
